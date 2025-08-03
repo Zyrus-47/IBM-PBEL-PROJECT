@@ -18,8 +18,8 @@ This project performs sentiment analysis on Amazon product reviews to predict wh
 - NLTK  
 - Scikit-learn
 
-![Screen Shots](screenshots/input_read_csv.png)
-![Screen Shots](screenshots/input_read_csv.png)
+![Screen Shots](https://github.com/Zyrus-47/IBM-PBEL-PROJECT/blob/main/Screenshot%202025-08-03%20153148.png)
+![Screen Shots](https://github.com/Zyrus-47/IBM-PBEL-PROJECT/blob/main/Screenshot%202025-08-03%20153200.png)
 
 ## Steps to Run
 
